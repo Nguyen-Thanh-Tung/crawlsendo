@@ -22,7 +22,7 @@ exports.addProduct = function () {
                 var data = JSON.parse(body).data;
                 'use strict';
                 for (let i = 0; i < data.length; i++) {
-                    console.log(pathFromName(data[i].shop_name));
+                    // console.log(pathFromName(data[i].shop_name));
 
 
                     var count = 0; //Debug
@@ -137,7 +137,7 @@ function pathFromName(str) {
     var abc = removeVN.split(' ');
     var result = [];
     for (var i = 0; i < abc.length; i++) {
-        if (abc[i] !== '') {
+        if (abc[i] !== '' && abc[i]!=='-') {
             result.push(abc[i]);
         }
     }
