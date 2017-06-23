@@ -248,3 +248,24 @@ function getDataImage(link) {
         }
     });
 }
+
+function renameFile(str){
+    var arr = str.split('-');
+    return arr[arr.length-1];
+}
+
+//Rename for all file in folder
+function renameAllFile(){
+    const testFolder = './storage/images/products/';
+    const saveFolder = './storage/images/products1/';
+    const fs = require('fs');
+
+    fs.readdir(testFolder, (err, files) => {
+        files.forEach(file => {
+            fs.rename(testFolder+file,saveFolder+renameFile(file), function(err) {
+                if ( err ) console.log('ERROR: ' + err);
+            });
+            // console.log(renameFile(file));
+        });
+    })
+}
