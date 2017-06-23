@@ -15,7 +15,20 @@ var ProductSchema = new Schema(
         price: String,
         link: String,
         image: String,
-        shopId: Number
+        shop: {
+            shopId: {
+                type: Number
+            },
+            name: String,
+            phone: String,
+            email: String,
+            location:
+                {
+                    longitude: String,
+                    latitude: String
+                },
+            address: String
+        }
     }
 );
 

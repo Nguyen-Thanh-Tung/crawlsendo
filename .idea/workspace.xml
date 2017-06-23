@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0176a0e-515c-49bd-a0be-14355a9c0a65" name="Default" comment="" />
+    <list default="true" id="b0176a0e-515c-49bd-a0be-14355a9c0a65" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/ao-nhap-khau-cao-cap---ao-so-mi-korea-phoi-no-cuc-xinh-4991718.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam dang suong 5191657.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-cach-dieu-xe-ta-ca-tinh-[hang-nhap]---da04-2-5443111.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-hoa-sat-nach-phoi-beo-lai---hang-thiet-ke-6070013.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-om-soc-ngang-duyen-dang-5530259.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-suong-in-hoa---hang-thiet-ke-6069899.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-suong-in-hoa-van-cuc-xinh--hang-nhap-6070173.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-xoe-tay-loa-in-hoa-tiet-3d-cuc-hot-hang-thiet-ke-6051261.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/dam-xoe-xep-ly-ht15-6079785.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/hang-nhap--dam-ren-theu-hoa-cao-cap-5951758.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/images/products/hang-nhap-dam-ren-theu-hoa-cao-cap-6062870.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/controller/ProductController.js" afterPath="$PROJECT_DIR$/api/controller/ProductController.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/model/Api.js" afterPath="$PROJECT_DIR$/api/model/Api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/model/Products.js" afterPath="$PROJECT_DIR$/api/model/Products.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -35,18 +51,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductController.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProductController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/controller/ProductController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+            <state relative-caret-position="1260">
+              <caret line="64" column="77" lean-forward="false" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
               <folding>
+                <element signature="e#631#660#0" expanded="false" />
                 <element signature="n#!!block;n#getShop#0" expanded="false" />
-                <element signature="n#!!block;n#getProduct#0" expanded="false" />
                 <element signature="n#!!block;n#encodeURI#0" expanded="false" />
                 <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
-                <element signature="n#!!block;n#saveShop#0" expanded="false" />
-                <element signature="n#!!block;n#saveProduct#0" expanded="false" />
                 <element signature="n#!!block;n#downloadImage#0" expanded="false" />
                 <element signature="n#!!block;n#getDataImage#0" expanded="false" />
               </folding>
@@ -54,22 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/@types/node/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54160">
-              <caret line="2723" column="20" lean-forward="false" selection-start-line="2723" selection-start-column="20" selection-end-line="2723" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Api.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Api.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/model/Api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="20">
+              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding>
+                <element signature="e#17#141#0" expanded="false" />
+                <element signature="e#147#275#0" expanded="false" />
+                <element signature="e#281#421#0" expanded="false" />
+                <element signature="e#427#571#0" expanded="false" />
+                <element signature="e#578#710#0" expanded="false" />
+                <element signature="e#716#864#0" expanded="false" />
+                <element signature="e#870#1019#0" expanded="false" />
+                <element signature="e#1025#1164#0" expanded="false" />
+                <element signature="e#1170#1299#0" expanded="false" />
+                <element signature="e#1305#1437#0" expanded="false" />
+                <element signature="e#1443#1573#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,8 +93,8 @@
       <file leaf-file-name="Products.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/model/Products.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="380">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -87,8 +103,8 @@
       <file leaf-file-name="Shops.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/model/Shops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="240">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="18" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -106,6 +122,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>trade</find>
+      <find>Loi luu shop</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,13 +133,13 @@
       <list>
         <option value="$PROJECT_DIR$/routes/CrawlRoute.js" />
         <option value="$PROJECT_DIR$/controller/ProductController.js" />
-        <option value="$PROJECT_DIR$/api/model/Api.js" />
         <option value="$PROJECT_DIR$/api/model/Product.js" />
         <option value="$PROJECT_DIR$/api/model/Shop.js" />
         <option value="$PROJECT_DIR$/api/model/Shops.js" />
-        <option value="$PROJECT_DIR$/api/model/Products.js" />
         <option value="$PROJECT_DIR$/api/routes/CrawlRoute.js" />
         <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/api/model/Products.js" />
+        <option value="$PROJECT_DIR$/api/model/Api.js" />
         <option value="$PROJECT_DIR$/api/controller/ProductController.js" />
       </list>
     </option>
@@ -159,6 +176,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,18 +202,9 @@
               <option name="myItemId" value="storage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="products" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,23 +311,25 @@
       <updated>1498058224364</updated>
       <workItem from="1498058226912" duration="26834000" />
       <workItem from="1498118644433" duration="7750000" />
-      <workItem from="1498132332287" duration="996000" />
+      <workItem from="1498132332287" duration="14825000" />
+      <workItem from="1498161634156" duration="3462000" />
+      <workItem from="1498192037575" duration="364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35580000" />
+    <option name="totallyTimeSpent" value="53235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19880864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2717796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25851393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49690402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -372,6 +383,124 @@
     <entry file="file://$PROJECT_DIR$/api/routes/CrawlRoute.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/controller/ProductController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="64" column="77" lean-forward="false" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
+          <folding>
+            <element signature="e#631#660#0" expanded="false" />
+            <element signature="n#!!block;n#getShop#0" expanded="false" />
+            <element signature="n#!!block;n#encodeURI#0" expanded="false" />
+            <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
+            <element signature="n#!!block;n#downloadImage#0" expanded="false" />
+            <element signature="n#!!block;n#getDataImage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#141#0" expanded="false" />
+            <element signature="e#147#275#0" expanded="false" />
+            <element signature="e#281#421#0" expanded="false" />
+            <element signature="e#427#571#0" expanded="false" />
+            <element signature="e#578#710#0" expanded="false" />
+            <element signature="e#716#864#0" expanded="false" />
+            <element signature="e#870#1019#0" expanded="false" />
+            <element signature="e#1025#1164#0" expanded="false" />
+            <element signature="e#1170#1299#0" expanded="false" />
+            <element signature="e#1305#1437#0" expanded="false" />
+            <element signature="e#1443#1573#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/routes/CrawlRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/controller/ProductController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#631#660#0" expanded="false" />
+            <element signature="n#!!block;n#getShop#0" expanded="false" />
+            <element signature="n#!!block;n#encodeURI#0" expanded="false" />
+            <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
+            <element signature="n#!!block;n#downloadImage#0" expanded="false" />
+            <element signature="n#!!block;n#getDataImage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#141#0" expanded="false" />
+            <element signature="e#147#275#0" expanded="false" />
+            <element signature="e#281#421#0" expanded="false" />
+            <element signature="e#427#571#0" expanded="false" />
+            <element signature="e#578#710#0" expanded="false" />
+            <element signature="e#716#864#0" expanded="false" />
+            <element signature="e#870#1019#0" expanded="false" />
+            <element signature="e#1025#1164#0" expanded="false" />
+            <element signature="e#1170#1299#0" expanded="false" />
+            <element signature="e#1305#1437#0" expanded="false" />
+            <element signature="e#1443#1573#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/routes/CrawlRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
           <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
           <folding />
         </state>
@@ -382,12 +511,10 @@
         <state relative-caret-position="520">
           <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
           <folding>
+            <element signature="e#631#660#0" expanded="false" />
             <element signature="n#!!block;n#getShop#0" expanded="false" />
-            <element signature="n#!!block;n#getProduct#0" expanded="false" />
             <element signature="n#!!block;n#encodeURI#0" expanded="false" />
             <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
-            <element signature="n#!!block;n#saveShop#0" expanded="false" />
-            <element signature="n#!!block;n#saveProduct#0" expanded="false" />
             <element signature="n#!!block;n#downloadImage#0" expanded="false" />
             <element signature="n#!!block;n#getDataImage#0" expanded="false" />
           </folding>
@@ -398,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54460">
           <caret line="2723" column="20" lean-forward="false" selection-start-line="2723" selection-start-column="20" selection-end-line="2723" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,7 +532,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="e#17#141#0" expanded="false" />
+            <element signature="e#147#275#0" expanded="false" />
+            <element signature="e#281#421#0" expanded="false" />
+            <element signature="e#427#571#0" expanded="false" />
+            <element signature="e#578#710#0" expanded="false" />
+            <element signature="e#716#864#0" expanded="false" />
+            <element signature="e#870#1019#0" expanded="false" />
+            <element signature="e#1025#1164#0" expanded="false" />
+            <element signature="e#1170#1299#0" expanded="false" />
+            <element signature="e#1305#1437#0" expanded="false" />
+            <element signature="e#1443#1573#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -447,12 +585,10 @@
         <state relative-caret-position="160">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
+            <element signature="e#631#660#0" expanded="false" />
             <element signature="n#!!block;n#getShop#0" expanded="false" />
-            <element signature="n#!!block;n#getProduct#0" expanded="false" />
             <element signature="n#!!block;n#encodeURI#0" expanded="false" />
             <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
-            <element signature="n#!!block;n#saveShop#0" expanded="false" />
-            <element signature="n#!!block;n#saveProduct#0" expanded="false" />
             <element signature="n#!!block;n#downloadImage#0" expanded="false" />
             <element signature="n#!!block;n#getDataImage#0" expanded="false" />
           </folding>
@@ -463,7 +599,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#17#141#0" expanded="false" />
+            <element signature="e#147#275#0" expanded="false" />
+            <element signature="e#281#421#0" expanded="false" />
+            <element signature="e#427#571#0" expanded="false" />
+            <element signature="e#578#710#0" expanded="false" />
+            <element signature="e#716#864#0" expanded="false" />
+            <element signature="e#870#1019#0" expanded="false" />
+            <element signature="e#1025#1164#0" expanded="false" />
+            <element signature="e#1170#1299#0" expanded="false" />
+            <element signature="e#1305#1437#0" expanded="false" />
+            <element signature="e#1443#1573#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -490,28 +638,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/google.png" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-nhap-khau-cao-cap---ao-so-mi-korea-phoi-no-cuc-xinh-4991718.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/dam-suong-in-hoa-van-cuc-xinh--hang-nhap-6070173.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/d1292-dam-ren-phoi-luoi-3-tang-dinh-no-duoi-ca-4619487.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/d1274-dam-maxi-ren-tay-con-sang-trong-4415733.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/cvd1243-dam-ren-maxi-sat-nach-phoi-luoi-xinh-xan-4282273.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-kieu-ho-vai-sm143-5725645.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-so-mi-co-tru-nu-sm11-3498643.jpg" />
+    <entry file="file://$PROJECT_DIR$/storage/images/products/co-size-xxl--ao-so-mi-vien-tru-ao-4315120.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/hang-nhap-ao-nu-co-that-no-sm81-4430190.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/hang-nhap-ao-nu-phoi-ren-sm62-4031625.jpg" />
+    <entry file="file://$PROJECT_DIR$/api/model/Products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-voan-yem-cach-dieu-th03093-3922493.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-voan-yem-cach-dieu-th03093-3748383.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/@types/node/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54160">
+        <state relative-caret-position="2720">
           <caret line="2723" column="20" lean-forward="false" selection-start-line="2723" selection-start-column="20" selection-end-line="2723" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/images/products/google.png" />
-    <entry file="file://$PROJECT_DIR$/api/model/Shops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/model/Api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,45 +702,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/images/products/ao-nhap-khau-cao-cap---ao-so-mi-korea-phoi-no-cuc-xinh-4991718.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/storage/images/products/dam-suong-in-hoa-van-cuc-xinh--hang-nhap-6070173.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/model/Products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/controller/ProductController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        <state relative-caret-position="1260">
+          <caret line="64" column="77" lean-forward="false" selection-start-line="64" selection-start-column="77" selection-end-line="64" selection-end-column="77" />
           <folding>
+            <element signature="e#631#660#0" expanded="false" />
             <element signature="n#!!block;n#getShop#0" expanded="false" />
-            <element signature="n#!!block;n#getProduct#0" expanded="false" />
             <element signature="n#!!block;n#encodeURI#0" expanded="false" />
             <element signature="n#!!block;n#removeVietnamese#0" expanded="false" />
-            <element signature="n#!!block;n#saveShop#0" expanded="false" />
-            <element signature="n#!!block;n#saveProduct#0" expanded="false" />
             <element signature="n#!!block;n#downloadImage#0" expanded="false" />
             <element signature="n#!!block;n#getDataImage#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Shops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/model/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#17#141#0" expanded="false" />
+            <element signature="e#147#275#0" expanded="false" />
+            <element signature="e#281#421#0" expanded="false" />
+            <element signature="e#427#571#0" expanded="false" />
+            <element signature="e#578#710#0" expanded="false" />
+            <element signature="e#716#864#0" expanded="false" />
+            <element signature="e#870#1019#0" expanded="false" />
+            <element signature="e#1025#1164#0" expanded="false" />
+            <element signature="e#1170#1299#0" expanded="false" />
+            <element signature="e#1305#1437#0" expanded="false" />
+            <element signature="e#1443#1573#0" expanded="false" />
           </folding>
         </state>
       </provider>

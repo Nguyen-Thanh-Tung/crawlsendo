@@ -12,12 +12,18 @@ var apis = [
         ]
     },
     {
-        type: "Áo nam",
+        type: "Áo khoác nam",
         url: [
             "https://mapi.sendo.vn/mob/product/cat/thoi-trang-nam/ao-khoac/",
-            "https://mapi.sendo.vn/mob/product/cat/thoi-trang-nam/ao-so-mi-nam/"
         ]
     },
+    {
+        type: "Áo sơ mi nam",
+        url: [
+            "https://mapi.sendo.vn/mob/product/cat/thoi-trang-nam/ao-so-mi-nam/",
+        ]
+    },
+
     {
         type: "Quần nữ",
         url: [
@@ -25,9 +31,14 @@ var apis = [
         ]
     },
     {
-        type: "Quần nam",
+        type: "Quần jeans nam",
         url: [
             "https://mapi.sendo.vn/mob/product/cat/thoi-trang-nam/quan-jeans-nam/",
+        ]
+    },
+    {
+        type: "Quần shorts nam",
+        url: [
             "https://mapi.sendo.vn/mob/product/cat/thoi-trang-nam/quan-shorts-nam/"
         ]
     },
